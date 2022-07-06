@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    flex-wrap: nowrap;
+    border: 2px solid black;
+    justify-content: flex-end;
+    height: 10vh;
+    width: 98vw;
+}
+
+.header_content{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    margin-right: 20px;
+}

@@ -1,0 +1,11 @@
+.searchbar_input {
+    border: 1px solid black;
+}
+
+.searchbar_input input{
+    border: none;
+}
+
+.searchbar_input button {
+    cursor: pointer;
+}
